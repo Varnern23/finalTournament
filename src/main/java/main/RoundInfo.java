@@ -5,7 +5,7 @@ public class RoundInfo {
 
     private String myAction;
     private String opponentAction;
-    private int outcome; // score earned this round
+    private int outcome;
 
     public RoundInfo(String myAction,String opponentAction,int outcome) {
         this.myAction = myAction;
